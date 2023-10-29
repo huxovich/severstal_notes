@@ -23,7 +23,7 @@ export default {
         isItalic: false,
         isInderline: false,
         isTNR: false,
-        fontSize: 20,
+        fontSize: 16,
         fontStep: 2
       },
     };
