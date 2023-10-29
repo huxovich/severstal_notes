@@ -1,5 +1,7 @@
 # notes-app
 В данном проекте реализовано приложение заметок с минималистичным дизайном в рамках тестового задания IT HUB «Северстали».
+![image](https://github.com/huxovich/severstal_notes/assets/143432186/8085d6e5-9685-4d60-8240-c64f3b8cde24)
+
 
 ## Project setup
 ```
