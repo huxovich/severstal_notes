@@ -9,7 +9,6 @@
 - возможность менять шрифт на Times New Roman и размер текста;  
 - реализован небольшой адаптив под 427px;  
 
-![image](https://github.com/huxovich/severstal_notes/assets/143432186/8085d6e5-9685-4d60-8240-c64f3b8cde24)
 
 
 ## Project setup
